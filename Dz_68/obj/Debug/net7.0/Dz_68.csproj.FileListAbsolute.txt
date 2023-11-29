@@ -1,0 +1,14 @@
+C:\Users\anikin_pp\Desktop\SharpDz\SharpDz\Dz_68\bin\Debug\net7.0\Dz_68.exe
+C:\Users\anikin_pp\Desktop\SharpDz\SharpDz\Dz_68\bin\Debug\net7.0\Dz_68.deps.json
+C:\Users\anikin_pp\Desktop\SharpDz\SharpDz\Dz_68\bin\Debug\net7.0\Dz_68.runtimeconfig.json
+C:\Users\anikin_pp\Desktop\SharpDz\SharpDz\Dz_68\bin\Debug\net7.0\Dz_68.dll
+C:\Users\anikin_pp\Desktop\SharpDz\SharpDz\Dz_68\bin\Debug\net7.0\Dz_68.pdb
+C:\Users\anikin_pp\Desktop\SharpDz\SharpDz\Dz_68\obj\Debug\net7.0\Dz_68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anikin_pp\Desktop\SharpDz\SharpDz\Dz_68\obj\Debug\net7.0\Dz_68.AssemblyInfoInputs.cache
+C:\Users\anikin_pp\Desktop\SharpDz\SharpDz\Dz_68\obj\Debug\net7.0\Dz_68.AssemblyInfo.cs
+C:\Users\anikin_pp\Desktop\SharpDz\SharpDz\Dz_68\obj\Debug\net7.0\Dz_68.csproj.CoreCompileInputs.cache
+C:\Users\anikin_pp\Desktop\SharpDz\SharpDz\Dz_68\obj\Debug\net7.0\Dz_68.dll
+C:\Users\anikin_pp\Desktop\SharpDz\SharpDz\Dz_68\obj\Debug\net7.0\refint\Dz_68.dll
+C:\Users\anikin_pp\Desktop\SharpDz\SharpDz\Dz_68\obj\Debug\net7.0\Dz_68.pdb
+C:\Users\anikin_pp\Desktop\SharpDz\SharpDz\Dz_68\obj\Debug\net7.0\Dz_68.genruntimeconfig.cache
+C:\Users\anikin_pp\Desktop\SharpDz\SharpDz\Dz_68\obj\Debug\net7.0\ref\Dz_68.dll
